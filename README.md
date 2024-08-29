@@ -32,3 +32,5 @@ parameters (lincom) are reported
 \
 The final logistic model indicates that black women are 0.94 (c.i. 0.80 to 1.10) times as likely with an insignificant 
 association between ethnicity and MSAF (p = 0.421).
+
+![Screenshot 2024-08-28 175104](https://github.com/user-attachments/assets/7cc6c499-4eaf-4196-82a0-7df19e400a47)
