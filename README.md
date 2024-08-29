@@ -2,7 +2,8 @@
 A Cross-Sectional Study of the Relationship Between Black Ethnicity and Meconium-Stained Amniotic Fluid in Laboring 
 Women of Urban Western Europe
 ___________________________________________________________________________________________________________________
-Please review "MSAF_Paper.docx" for detailed methods and conclusions.
+Please review "MSAF_Paper.docx" for detailed methods and conclusions.\
+DATA retrieved from a class project
 ___________________________________________________________________________________________________________________
 #### Introduction
 \
